@@ -38,7 +38,7 @@ This project applies Natural Language Processing (NLP) to classify sentiment in 
 
 Explore the full sentiment analysis pipeline in the Jupyter notebook:  
 👉 [sentiment_analysis_notebook.ipynb](https://github.com/slayerranjan/Social-media-sentiment-analysis/blob/main/sentiment_analysis_notebook.ipynb)
-  
+
 
 ## 📌 Author
 

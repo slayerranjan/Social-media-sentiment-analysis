@@ -74,11 +74,16 @@ Explore the deployed dashboard here:
   ![Predicted Sentiment Output](screenshots/predicted_sentiment_output.png)
 
 
-## 📁 Repo Structure
+📁 Repo Structure
+---
 
-├── sentiment_analysis_notebook.ipynb 
-├── twitter_airline_sentiment.csv
-├── README.md
+├── app.py                         # Streamlit dashboard  
+├── Social_Media_Analysis.ipynb   # Jupyter notebook pipeline  
+├── twitter_airline_sentiment.csv # Dataset  
+├── requirements.txt              # Python dependencies  
+├── README.md                     # Project overview  
+├── .devcontainer/                # VS Code container config  
+├── screenshots/                  # Dashboard visuals
 
 
 ## 🚀 Highlights

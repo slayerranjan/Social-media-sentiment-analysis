@@ -1,4 +1,4 @@
-# ✈️ Airline Tweet Sentiment Analysis
+# ✈️ Airline Tweet Sentiment Dashboard & Analysis
 
 This project applies Natural Language Processing (NLP) to classify sentiment in airline-related tweets. Using a real-world dataset, we build a reproducible pipeline that transforms noisy social media text into actionable insights.
 

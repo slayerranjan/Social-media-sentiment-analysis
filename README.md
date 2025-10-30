@@ -7,6 +7,20 @@ This project applies Natural Language Processing (NLP) to classify sentiment in 
 - **Goal**: Predict tweet sentiment (positive, neutral, negative) using text-based features  
 - **Dataset**: Public airline tweet dataset with labeled sentiment  
 - **Tech Stack**: Python, Pandas, Scikit-learn, Seaborn, Matplotlib, TF-IDF
+  
+## 📊 Streamlit Dashboard Features
+
+This project includes an interactive dashboard built with Streamlit to showcase the sentiment analysis pipeline in action.
+
+- Upload CSVs of airline tweets
+- Clean and preprocess text using NLP
+- Visualize sentiment distribution
+- Filter tweets by sentiment and tweet length
+- Train ML models (Logistic Regression or Random Forest)
+- View model performance (accuracy, classification report, confusion matrix)
+- Predict sentiment on new tweets
+- Download predictions as CSV
+
 
 ## 🧪 Methodology
 

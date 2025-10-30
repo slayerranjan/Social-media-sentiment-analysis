@@ -35,6 +35,7 @@ Explore the deployed dashboard here:
 4. **Evaluation**: Accuracy, classification report, confusion matrix, cross-validation
 
 📊 Results
+---
 
 **Logistic Regression**
 - Accuracy: **81%** on test set  

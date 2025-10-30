@@ -34,11 +34,25 @@ Explore the deployed dashboard here:
 3. **Modeling**: Logistic Regression and Random Forest comparison  
 4. **Evaluation**: Accuracy, classification report, confusion matrix, cross-validation
 
-## 📊 Results
+📊 Results
 
-- **Best Model**: Logistic Regression  
-- **Accuracy**: ~79.2% (5-fold cross-validation)  
-- **Insights**: Neutral tweets are hardest to classify due to vocabulary overlap
+**Logistic Regression**
+- Accuracy: **81%** on test set  
+- Cross-validation Accuracy: **~79.2%** (5-fold)  
+- F1-score: **0.88** (negative), **0.61** (neutral), **0.71** (positive)  
+- Confusion matrix shows high precision for negative sentiment
+
+**Random Forest**
+- Accuracy: **~76%**  
+- Precision: Strong for negative sentiment  
+- Recall: Weak for neutral sentiment  
+- F1-score: Lower than Logistic Regression overall
+
+**Insights**
+- Neutral tweets are hardest to classify due to vocabulary overlap  
+- Logistic Regression consistently outperforms Random Forest on this dataset  
+- Ensemble models like Random Forest offer robustness but struggle with class ambiguity in text
+
 
 ## 📁 Repo Structure
 

@@ -21,6 +21,11 @@ This project includes an interactive dashboard built with Streamlit to showcase 
 - Predict sentiment on new tweets
 - Download predictions as CSV
 
+## 🚀 Live App
+
+Explore the deployed dashboard here:  
+👉 [Launch the Sentiment Dashboard](https://share.streamlit.io/slayerranjan/social-media-sentiment-analysis/main/app.py)
+
 
 ## 🧪 Methodology
 

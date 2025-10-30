@@ -55,6 +55,25 @@ Explore the deployed dashboard here:
 - Ensemble models like Random Forest offer robustness but struggle with class ambiguity in text
 
 
+## 📸 Screenshots
+---
+
+- **Raw & Cleaned Data Table**  
+  ![Raw & Cleaned Data](screenshots/raw_cleaned_data.png)
+
+- **Sentiment Distribution Chart**  
+  ![Sentiment Distribution](screenshots/sentiment_distribution.png)
+
+- **Model Performance Report**  
+  ![Model Performance](screenshots/model_performance.png)
+
+- **Confusion Matrix (Zoomed)**  
+  ![Confusion Matrix Zoom](screenshots/confusion_matrix_zoom.png)
+
+- **Predicted Sentiment Output**  
+  ![Predicted Sentiment Output](screenshots/predicted_sentiment_output.png)
+
+
 ## 📁 Repo Structure
 
 ├── sentiment_analysis_notebook.ipynb 

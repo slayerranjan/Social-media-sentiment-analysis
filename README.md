@@ -96,9 +96,13 @@ Explore the deployed dashboard here:
 
 Explore the full sentiment analysis pipeline in the Jupyter notebook:  
 👉 [Social_Media_Analysis.ipynb](https://github.com/slayerranjan/Social-media-sentiment-analysis/blob/main/Social_Media_Analysis.ipynb)
+Includes:
+- Regex-based text cleaning
+- TF-IDF feature extraction
+- Logistic Regression and Random Forest modeling
+- Evaluation via classification report, confusion matrix, and cross-validation
 
-
-
+  
 ## 📌 Author
 
 **Ranjan** — Data enthusiast with a passion for clarity, storytelling, and real-world impact.  
